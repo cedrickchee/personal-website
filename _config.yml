@@ -1,11 +1,11 @@
 # main text of home
 name: Cedric Chee
-bio: Hi, I'm a full stack software engineer at Vintedge and founder of Trinine. I love building applications in the most elegant ways. I help companies build web and mobile apps in JavaScript, React, Webpack, Node.js, Android & others.
+bio: Hi, I'm a full stack software engineer at Vintedge and founder of Trinine.
 
 # twitter summary info
 description: Cedric Chee is a full stack software engineer at Vintedge and founder of Trinine. He helps companies build web and mobile apps in JavaScript, React, Webpack, Node.js, Android & others.
 
-repository: cedrickchee/indigo
+repository: cedrickchee/personal-website
 
 # if it's an external image, update below for true
 # better with square images
@@ -14,9 +14,9 @@ picture: assets/images/my-profile-pic.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: https://google.com/?q=cedric+chee
+# resume: true
+# resume-external: true
+# resume-url: https://google.com/?q=cedric+chee
 
 url: https://obneo.xyz
 # your url: http://USERNAME.github.io
@@ -36,27 +36,27 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: cedrickchee
 twitter: cedric_chee
-google: CedricChee
-instagram: cedrickchee
-pinterest: cedrickchee
 linkedin: cedricchee
-# youtube: myyoutube
-# spotify: myspotify
 github: cedrickchee
-# lastfm: mylastfm
+medium: cedric_chee
+google: CedricChee
 stackoverflow: 206570/cedrickchee
 quora: cedric-chee
+instagram: cedrickchee
+pinterest: cedrickchee
+# youtube: myyoutube
+# spotify: myspotify
+# lastfm: mylastfm
 reddit: cedrickchee
-medium: cedric_chee
 vimeo: cedrickchee
+facebook: cedrickchee
 email: c@obneo.xyz
 
 authors:
     cedrickchee:
         name: Cedric Chee
-        bio: The man behind the code
+        bio: Full stack software engineer and founder of Trinine
         external-image: false
         picture: assets/images/my-profile-pic.jpg
         twitter: cedric_chee
@@ -71,11 +71,11 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+# projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+# blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true

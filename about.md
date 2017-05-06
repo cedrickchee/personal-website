@@ -3,15 +3,15 @@ title: About
 layout: page
 ---
 
-<h2>Introduction</h2>
-
+<h2>Bio</h2>
+<h4>A little more about me.</h4>
 <p>Hi, I'm Cedric. I'm a full stack software engineer and technical lead at Vintedge. Vintedge is a digital agency. I work on the technology team in Singapore and focused on full stack web application and native Android application development for a wide array of business applications in a consulting environment.</p>
 
-<p>I have over 10 years of web and 3 years of mobile application development experience. I have written both server-side and client-side code in many programming languages for many companies and customers. I have the ability to come up with increasingly complex and innovative solutions to match business demands. I constantly challenge the status quo and trying to find better ways of doing things. I love building applications in the most elegant ways.</p>
+<p>I have over 10 years of web and 3 years of mobile application development experience. I believe I have a strong web development fundamentals. I have written both server-side and client-side code in many <a href="#programming-language">programming languages</a> for seven companies and many customers. I have the ability to come up with increasingly complex and innovative solutions to match business demands. I constantly challenge the status quo and trying to find better ways of doing things. I love building applications in the most elegant ways.</p>
 
-<h2>Startup</h2>
+<h2>Entrepreneurship</h2>
 
-<p>I'm co-founder in a fantastic startup fulfilling the promise of Artificial Intelligence for medical imaging and patient healthcare.</p>
+<p>I'm in the process of building my own product, but I consult in the mean time. I'm founder of <a href="https://trinine.io" target="_blank">Trinine</a>, a startup fulfilling the promise of Artificial Intelligence for medical imaging and patient healthcare.</p>
 
 <h2>Interest</h2>
 
@@ -23,12 +23,12 @@ layout: page
 	<li>fast.ai's Practical Deep Learning For Coders, Part 1</li> 
 </ul>
 
-<p>I also enjoys participating in Kaggle competitions and learning from others.</p>
+<p>I also enjoy participating in <a href="https://www.kaggle.com/cedrickchee" target="_blank">Kaggle</a> competitions and learning from others.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li><strong>Programming language:</strong> JavaScript, ES6, Python, C#, Ruby</li>
+	<li><strong><a name="programming-language" aria-hidden="true"></a>Programming language:</strong> JavaScript, ES6, Python, C#, Ruby</li>
 	<li><strong>Web framework:</strong> Node.js, ASP.NET, RoR</li>
 	<li><strong>JavaScript Library:</strong> React JS, jQuery</li>
 	<li><strong>Mobile app development:</strong> Android, React Native</li>
@@ -45,12 +45,34 @@ layout: page
 	<li><strong>Cloud computing:</strong> Amazon Web Services (AWS), Google Cloud Platform</li>
 </ul>
 
-<p>My software development stack: <a href="https://stackshare.io/cedrickchee">stackshare</a></p>
+<h2>Development Stack</h2>
 
-<!--<h2>Projects</h2>
+<p>You can see the tools and services used by my startup here: <a target="_blank" href="https://stackshare.io/cedrickchee">stackshare</a></p>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>-->
+<h2></h2>
+
+<h2>Works</h2>
+
+<p>Coming soon!</p>
+
+<h2>Projects</h2>
+
+<p>Coming soon!</p>
+
+<p>Subscribe to my RSS feed <a class="link" href="{{ site.url }}/feed.xml" target="_blank"><svg class="icon icon-rss"><use xlink:href="#icon-rss"></use></svg></a> or follow me on <a href="https://twitter.com/cedric_chee" target="_blank">Twitter</a> for updates.</p>
+
+<h2>Inactive Blogs</h2>
+<ul class="blogs-list">
+	<li>
+		<a href="https://cedrickchee.wordpress.com/" target="_blank">WordPress - Musings on technology and everything else in between</a>
+	</li>
+	<li>
+		<a href="http://cedrickchee.blogspot.com/" target="_blank">Blogspot - Observing Web 2.0 and beyond</a>
+	</li>
+	<li>
+		<a href="http://cedrickchee.tumblr.com/" target="_blank">Tumblr - Bits of my life, thoughts & everything else in-between</a>
+	</li>	
+</ul>
+
+<i>... as life progress, this site is pretty much work in progress ...</i>
+<i>Last updated: 2017-05-07 5:13 AM</i>

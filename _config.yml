@@ -1,9 +1,11 @@
 # main text of home
 name: Cedric Chee
-bio: The man behind the code
+bio: Hi, I'm a full stack software engineer at Vintedge and founder of Trinine. I love building applications in the most elegant ways. I help companies build web and mobile apps in JavaScript, React, Webpack, Node.js, Android & others.
 
 # twitter summary info
-description: Cedric Chee is a full stack software engineer at Vintedge working with the Web and Mobile App team. He is founder of Trinine and author of open-source projects.
+description: Cedric Chee is a full stack software engineer at Vintedge and founder of Trinine. He helps companies build web and mobile apps in JavaScript, React, Webpack, Node.js, Android & others.
+
+repository: cedrickchee/indigo
 
 # if it's an external image, update below for true
 # better with square images
@@ -19,7 +21,7 @@ resume-url: https://google.com/?q=cedric+chee
 url: https://obneo.xyz
 # your url: http://USERNAME.github.io
 
-permalink: /:title/
+permalink: "/:year/:month/:day/:title/"
 
 # To enable google analytics, supply your token below
 analytics-google: 'UA-98667456-1'
@@ -30,13 +32,13 @@ analytics-google: 'UA-98667456-1'
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
+  shortname: cedrickchee # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 facebook: cedrickchee
 twitter: cedric_chee
-google: cedricchee
+google: CedricChee
 instagram: cedrickchee
 pinterest: cedrickchee
 linkedin: cedricchee
@@ -92,6 +94,10 @@ show-author: true
 
 # do you want some animations?
 animation: false
+
+encoding: UTF-8
+lang: en-US
+branch: gh-pages
 
 gems:
   - jekyll-seo-tag

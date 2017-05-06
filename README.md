@@ -65,4 +65,7 @@ Check the [FAQ](./FAQ.md) if you have any question or problem.
 
 ---
 
-[MIT](https://cedrickchee.mit-license.org/) License © Cedric Chee
+## License
+
+* Code: [MIT](https://cedrickchee.mit-license.org/) © Cedric Chee
+* Content: [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)

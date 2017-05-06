@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://google.com/?q=cedric+chee
 
 url: https://obneo.xyz
 # your url: http://USERNAME.github.io
@@ -22,7 +22,7 @@ url: https://obneo.xyz
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-98667456-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -36,7 +36,7 @@ disqus:
 # if you don't have any of social below, comment the line
 facebook: cedrickchee
 twitter: cedric_chee
-# google: mygoogle
+google: cedricchee
 instagram: cedrickchee
 pinterest: cedrickchee
 linkedin: cedricchee
@@ -48,15 +48,15 @@ stackoverflow: 206570/cedrickchee
 quora: cedric-chee
 reddit: cedrickchee
 medium: cedric_chee
-# vimeo: myvimeo
-email: myemail@gmail.com
+vimeo: cedrickchee
+email: c@obneo.xyz
 
 authors:
     cedrickchee:
         name: Cedric Chee
         bio: The man behind the code
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/my-profile-pic.jpg
         twitter: cedric_chee
 
 # do you want a larger site? change the option below
@@ -91,7 +91,7 @@ post-advance-links: [blog]
 show-author: true
 
 # do you want some animations?
-animation: true
+animation: false
 
 gems:
   - jekyll-seo-tag

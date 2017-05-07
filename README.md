@@ -27,7 +27,7 @@ Built using:
 - [Jekyll](https://jekyllrb.com/), [Sass](http://sass-lang.com/) and [SVG](https://www.w3.org/Graphics/SVG/)
 - [Indigo theme](https://github.com/sergiokopplin/indigo). A simple and minimalist template for Jekyll
 - Tests with [Travis CI](https://travis-ci.org/)
-- Google Speed: [86/100](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fcedricchee.com);
+- Google PageSpeed: [98/100](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fcedricchee.com);
 - No JS. :sunglasses:
 
 ## Setup

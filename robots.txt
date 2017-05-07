@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /
-Sitemap: https://obneo.xyz/sitemap.xml
-Host: obneo.xyz
+Sitemap: http://cedricchee/sitemap.xml
+Host: cedricchee.com

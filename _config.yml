@@ -18,7 +18,7 @@ picture: assets/images/my-profile-pic.jpg
 # resume-external: true
 # resume-url: https://google.com/?q=cedric+chee
 
-url: https://obneo.xyz
+url: http://cedricchee.com
 # your url: http://USERNAME.github.io
 
 permalink: "/:year/:month/:day/:title/"
@@ -56,7 +56,7 @@ email: cedric+site@invictusbyte.com
 authors:
     cedrickchee:
         name: Cedric Chee
-        bio: Full stack software engineer and founder of Trinine
+        bio: Full stack software engineer
         external-image: false
         picture: assets/images/my-profile-pic.jpg
         twitter: cedric_chee

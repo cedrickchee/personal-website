@@ -3,76 +3,104 @@ title: About
 layout: page
 ---
 
-<h2>Bio</h2>
-<h4>A little more about me.</h4>
-<p>Hi, I'm Cedric. I'm a full stack software engineer and technical lead at Vintedge. Vintedge is a digital agency. I work on the technology team in Singapore and focused on full stack web application and native Android application development for a wide array of business applications in a consulting environment.</p>
+## Bio
+### A little more about me.
 
-<p>I have over 10 years of web and 3 years of mobile application development experience. I believe I have a strong web development fundamentals. I have written both server-side and client-side code in many <a href="#programming-language">programming languages</a> for seven companies and many customers. I have the ability to come up with increasingly complex and innovative solutions to match business demands. I constantly challenge the status quo and trying to find better ways of doing things. I love building applications in the most elegant ways.</p>
+Hi, I'm Cedric. I am a full stack software engineer at Vintedge, a digital agency. I work on the technology team in Singapore and focused on full stack web application and native Android application development for a wide array of business applications in a consulting environment. During my career there, I held the roles of software consultant, developer, and technical lead.
 
-<h2>Entrepreneurship</h2>
+I have over 10 years of web and 3 years of mobile application development experience. I believe I have a strong web development fundamentals. I have written both server-side and client-side code in many <a href="#programming-language">programming languages</a> for seven companies and many customers. I have the ability to come up with increasingly complex and innovative solutions to match business demands. I constantly challenge the status quo and trying to find better ways of doing things. I love building applications in the most elegant ways.
 
-<p>I'm in the process of building my own product, but I consult in the mean time. I'm founder of <a href="https://trinine.io" target="_blank">Trinine</a>, a startup fulfilling the promise of Artificial Intelligence for medical imaging and patient healthcare.</p>
+### Early life
 
-<h2>Interest</h2>
+I was born in 1980 in Malaysia and moved to Singapore in 2006. My father was a mechanic and my mother was a homemaker.
 
-<p>My Current Area of interest is Artificial Intelligence. I am currently studying Machine Learning and Deep Learning independently. I have taken the following courses:</p>
+### My history with computing
 
-<ul class="course-list">
-	<li>Andrew Ng's Machine Learning</li>
-	<li>Stanford University's CS231n: Convolutional Neural Networks for Visual Recognition</li>
-	<li>fast.ai's Practical Deep Learning For Coders, Part 1</li> 
-</ul>
+At 10, when I was in the fourth grade (in Malaysia, the fourth grade is the fourth school year of elementary school), my father bought me an IBM PC AT. It came with Intel 80286 processor and EGA color system. My dad enrolled me to after-school computer club where I learned about computer, word processor, and educational programming language. I wrote my first program using Logo programming language. I also learned BASIC programming.
 
-<p>I also enjoy participating in <a href="https://www.kaggle.com/cedrickchee" target="_blank">Kaggle</a> competitions and learning from others.</p>
+## Education
 
-<h2>Skills</h2>
+I earned my undergraduate degree at University of Malaysia Sabah in Borneo - a small and not widely known institution, but one which was affordable and close to home. My field of studies is multimedia technology but I took rigorous graduate level computer science and information technology courses. I graduated with a BSc(Hons) degree in Multimedia Technology in 2003. My Bachelor's Thesis research was about "Mobile Internet - designing and developing mobile applications with Wireless Application Protocol (WAP) for mobile phones".
 
-<ul class="skill-list">
-	<li><strong><a name="programming-language" aria-hidden="true"></a>Programming language:</strong> JavaScript, ES6, Python, C#, Ruby</li>
-	<li><strong>Web framework:</strong> Node.js, ASP.NET, RoR</li>
-	<li><strong>JavaScript Library:</strong> React JS, jQuery</li>
-	<li><strong>Mobile app development:</strong> Android, React Native</li>
-	<li><strong>JavaScript build tools:</strong> Webpack, Gulp</li>
-	<li><strong>CSS:</strong> SCSS, Bootstrap</li>
-	<li><strong>Source code management:</strong> Git</li>
-	<li><strong>Database:</strong> PostgreSQL, MongoDB</li>
-	<li><strong>Caching:</strong> redis</li>
-	<li><strong>System administration:</strong> Linux, nginx</li>
-	<li><strong>Container:</strong> Docker, Kubernetes</li>
-	<li><strong>Artificial Intelligence:</strong> Machine Learning, Deep Learning, TensorFlow</li>
-	<li><strong>Agile software development:</strong> Scrum, Kanban</li>
-	<li><strong>Continuous Integration:</strong> Travis, CircleCI</li>
-	<li><strong>Cloud computing:</strong> Amazon Web Services (AWS), Google Cloud Platform</li>
-</ul>
+## Career and Works
 
-<h2>Development Stack</h2>
+* 2003 - 2004:
+	* I started my computer programming career by creating a product for managing hospital, clinic, and medical imaging information.
+* 2004 - 2006:
+	* I developed an inventory management system for DVD-ROM manufacturing.
+* 2006 - 2008:
+	* I developed a scalable content management platform for TodayOnline and MediaCorp TV.
+* 2008 - 2010:
+	* he developed a travel search and booking engine for Asia market dynamics.
+* 2011 - present:
+	* I developed and supported a Nursing and Clinical Skills cloud platforms, which offer medical students and professionals access to evidence-based medical skills and procedures that are customised to cater for institution-specific protocols and local market dynamics in 8 countries, spanning Asia, Europe and Latin America.
+	* I developed a Medical e-Learning platform for medical specialists to achieve their CPD certifications at their own pace through peer-reviewed learning activities.
+	* I developed a Long-Term Care Nursing product, which offer regulatory-compliant clinical resources for long-term care specific nursing procedures for US market.
+	* I led and developed myMaritime@SG. myMaritime@SG is an iOS and Android app which offers access to news releases, real-time vessel information and alerts and other Marinet e-services. The app was launched by Singapore Senior Minister of Transport in 2015. News: http://bit.ly/2pkUzNQ
+	* I developed the official 2016 F1 Singapore Grand Prix Android app.
+	* I was a lead developer for Samsung's Project Robin. Robin is a retail demo solution consists of an Android and Tizen TV app to improve the TV shopping experience. The app was built using React Native. The app was showcased at Samsung SEA Forum 2017.
 
-<p>You can see the tools and services used by my startup here: <a target="_blank" href="https://stackshare.io/cedrickchee">stackshare</a></p>
+## Interest
 
-<h2></h2>
+My Current Area of interest is Artificial Intelligence. I am currently studying Machine Learning and Deep Learning independently. I have taken the following courses:
 
-<h2>Works</h2>
+* Andrew Ng's Machine Learning
+* Stanford University's CS231n: Convolutional Neural Networks for Visual Recognition
+* fast.ai's Practical Deep Learning For Coders, Part 1
 
-<p>Coming soon!</p>
+In conjunction with my studies, I also participate in <a href="https://www.kaggle.com/cedrickchee" target="_blank">Kaggle</a> competitions and learning from others.
 
-<h2>Projects</h2>
+## Skills
 
-<p>Coming soon!</p>
+* <a name="programming-language" aria-hidden="true"></a>**Programming language:** JavaScript, ES6, Python, C#, Ruby
+* **Web framework:** Node.js, ASP.NET, RoR
+* **JavaScript Library:** React JS, jQuery
+* **Mobile app development:** Android, React Native
+* **JavaScript build tools:** Webpack, Gulp
+* **CSS:** SCSS, Bootstrap
+* **Source code management:** Git
+* **Database:** PostgreSQL, MongoDB
+* **Caching:** redis
+* **System administration:** Linux, nginx
+* **Container:** Docker, Kubernetes
+* **Artificial Intelligence:** Machine Learning, Deep Learning, TensorFlow
+* **Agile software development:** Scrum, Kanban
+* **Continuous Integration:** Travis, CircleCI
+* **Cloud computing:** Amazon Web Services (AWS), Google Cloud Platform
 
-<p>Subscribe to my RSS feed <a class="link" href="{{ site.url }}/feed.xml" target="_blank"><svg class="icon icon-rss"><use xlink:href="#icon-rss"></use></svg></a> or follow me on <a href="https://twitter.com/cedric_chee" target="_blank">Twitter</a> for updates.</p>
+## Projects
 
-<h2>Inactive Blogs</h2>
-<ul class="blogs-list">
-	<li>
-		<a href="https://cedrickchee.wordpress.com/" target="_blank">WordPress - Musings on technology and everything else in between</a>
-	</li>
-	<li>
-		<a href="http://cedrickchee.blogspot.com/" target="_blank">Blogspot - Observing Web 2.0 and beyond</a>
-	</li>
-	<li>
-		<a href="http://cedrickchee.tumblr.com/" target="_blank">Tumblr - Bits of my life, thoughts & everything else in-between</a>
-	</li>	
-</ul>
+In 2016, while I was studying Machine Learning independently, I started <a href="https://trinine.io" target="_blank">Trinine</a>, an open source project to learn, experiment, and improve medical imaging and diagnosis for patients and clinicians using deep neural networks and cloud computing.
 
-<i>... as life progress, this site is pretty much work in progress ...</i>
-<i>Last updated: 2017-05-07 5:13 AM</i>
+## Development Stack
+
+You can see the tools and services used in my personal projects here: <a target="_blank" href="https://stackshare.io/cedrickchee">stackshare</a>
+
+## What I'm Looking For
+
+An opportunity to work in a great startup environment with great engineering team that enables me to advance my skills. Love to help. I can pick up technologies as I go along. Investments in my project?
+
+## Personal Values
+
+What are the core values that drive my life and work?
+
+* Grit
+* Self-respect
+* Lifelong learning
+* Contribution
+
+## Inactive Blogs
+
+* <a href="https://cedrickchee.wordpress.com/" target="_blank">WordPress - Musings on technology and everything else in between</a>
+* <a href="http://cedrickchee.blogspot.com/" target="_blank">Blogspot - Observing Web 2.0 and beyond</a>
+* <a href="http://cedrickchee.tumblr.com/" target="_blank">Tumblr - Bits of my life, thoughts & everything else in-between</a>
+
+## About this Site
+
+I started this blog to give my friends and family an idea of what I'm reading and thinking about, to organize my thoughts, and to improve my own writing. I read a lot of blogs, articles, papers, and books, and this blog is an ideal place to share the things I am reading and thinking about.
+
+The website is open source. You can view the source code [here](https://github.com/{{ site.repository }}).
+
+Subscribe to my RSS feed <a class="link" href="{{ site.url }}/feed.xml" target="_blank"><svg class="icon icon-rss"><use xlink:href="#icon-rss"></use></svg></a> or follow me on <a href="https://twitter.com/cedric_chee" target="_blank">Twitter</a> if you would like to get an update.
+
+You can contact me at cedric+site[at]invictusbyte.com for more info.

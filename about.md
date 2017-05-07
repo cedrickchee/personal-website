@@ -109,6 +109,7 @@ You can contact me at cedric+site[at]invictusbyte.com for more info.
 #### PGP/GPG Public Key and Fingerprint:
 
 Available on [Keybase] and [MIT PGP Key Server]
+
 914E 698E 44A6 21D8 A9D5 357A 3F4C 3C55 A9BC 8FD5
 
 [Keybase]: https://keybase.io/cedric

@@ -25,24 +25,24 @@ I earned my undergraduate degree at University of Malaysia Sabah in Borneo - a s
 ## Career and Works
 
 * 2003 - 2004:
-	* I started my computer programming career by creating a product for managing hospital, clinic, and medical imaging information.
+	* Started my computer programming career by creating a product for managing hospital, clinic, and medical imaging information.
 * 2004 - 2006:
-	* I developed an inventory management system for DVD-ROM manufacturing.
+	* Developed an inventory management system for DVD-ROM manufacturing.
 * 2006 - 2008:
-	* I developed a scalable content management platform for TodayOnline and MediaCorp TV.
+	* Developed a scalable content management platform for TodayOnline and MediaCorp TV.
 * 2008 - 2010:
-	* he developed a travel search and booking engine for Asia market dynamics.
+	* Developed a travel search and booking engine for Asia market dynamics.
 * 2011 - present:
-	* I developed and supported a Nursing and Clinical Skills cloud platforms, which offer medical students and professionals access to evidence-based medical skills and procedures that are customised to cater for institution-specific protocols and local market dynamics in 8 countries, spanning Asia, Europe and Latin America.
-	* I developed a Medical e-Learning platform for medical specialists to achieve their CPD certifications at their own pace through peer-reviewed learning activities.
-	* I developed a Long-Term Care Nursing product, which offer regulatory-compliant clinical resources for long-term care specific nursing procedures for US market.
-	* I led and developed myMaritime@SG. myMaritime@SG is an iOS and Android app which offers access to news releases, real-time vessel information and alerts and other Marinet e-services. The app was launched by Singapore Senior Minister of Transport in 2015. News: http://bit.ly/2pkUzNQ
-	* I developed the official 2016 F1 Singapore Grand Prix Android app.
-	* I was a lead developer for Samsung's Project Robin. Robin is a retail demo solution consists of an Android and Tizen TV app to improve the TV shopping experience. The app was built using React Native. The app was showcased at Samsung SEA Forum 2017.
+	* Developed and supported a Nursing and Clinical Skills cloud platforms, which offer medical students and professionals access to evidence-based medical skills and procedures that are customised to cater for institution-specific protocols and local market dynamics in 8 countries, spanning Asia, Europe and Latin America.
+	* Developed a Medical e-Learning platform for medical specialists to achieve their CPD certifications at their own pace through peer-reviewed learning activities.
+	* Developed a Long-Term Care Nursing product, which offer regulatory-compliant clinical resources for long-term care specific nursing procedures for US market.
+	* Led and developed myMaritime@SG. myMaritime@SG is an iOS and Android app which offers access to news releases, real-time vessel information and alerts and other Marinet e-services. The app was launched by Singapore Senior Minister of Transport in 2015. [News](http://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/detail/899656d4-3fb6-4622-8521-fc02eba329c1){:target="_blank"}
+	* Developed the official 2016 F1 Singapore Grand Prix Android app.
+	* Lead developer for Samsung's Project Robin. Robin is a retail demo solution consists of an Android and Tizen TV app to improve the TV shopping experience. The app was built using React Native. The app was showcased at Samsung SEA Forum 2017.
 
 ## Interest
 
-My Current Area of interest is Artificial Intelligence. I am currently studying Machine Learning and Deep Learning independently. I have taken the following courses:
+My current area of interest is Artificial Intelligence. I am currently studying Machine Learning and Deep Learning independently. I have taken the following courses:
 
 * Andrew Ng's Machine Learning
 * Stanford University's CS231n: Convolutional Neural Networks for Visual Recognition
@@ -64,7 +64,6 @@ In conjunction with my studies, I also participate in <a href="https://www.kaggl
 * **System administration:** Linux, nginx
 * **Container:** Docker, Kubernetes
 * **Artificial Intelligence:** Machine Learning, Deep Learning, TensorFlow
-* **Agile software development:** Scrum, Kanban
 * **Continuous Integration:** Travis, CircleCI
 * **Cloud computing:** Amazon Web Services (AWS), Google Cloud Platform
 

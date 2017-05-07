@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /
+Allow: /
 Sitemap: https://cedricchee.com/sitemap.xml
 Host: cedricchee.com

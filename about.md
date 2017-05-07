@@ -103,3 +103,13 @@ The website is open source. You can view the source code [here](https://github.c
 Subscribe to my RSS feed <a class="link" href="{{ site.url }}/feed.xml" target="_blank"><svg class="icon icon-rss"><use xlink:href="#icon-rss"></use></svg></a> or follow me on <a href="https://twitter.com/cedric_chee" target="_blank">Twitter</a> if you would like to get an update.
 
 You can contact me at cedric+site[at]invictusbyte.com for more info.
+
+---
+
+#### PGP/GPG Public Key and Fingerprint:
+
+Available on [Keybase] and [MIT PGP Key Server]
+914E 698E 44A6 21D8 A9D5 357A 3F4C 3C55 A9BC 8FD5
+
+[Keybase]: https://keybase.io/cedric
+[MIT PGP Key Server]: https://pgp.mit.edu/pks/lookup?op=vindex&search=0x3F4C3C55A9BC8FD5

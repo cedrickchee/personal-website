@@ -18,7 +18,7 @@ picture: assets/images/my-profile-pic.jpg
 # resume-external: true
 # resume-url: https://google.com/?q=cedric+chee
 
-url: http://cedricchee.com
+url: https://cedricchee.com
 # your url: http://USERNAME.github.io
 
 permalink: "/:year/:month/:day/:title/"

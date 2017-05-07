@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /
-Sitemap: http://cedricchee/sitemap.xml
+Sitemap: https://cedricchee.com/sitemap.xml
 Host: cedricchee.com

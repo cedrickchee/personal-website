@@ -69,7 +69,7 @@ In conjunction with my studies, I also participate in <a href="https://www.kaggl
 
 ## Projects
 
-In 2016, while I was studying Machine Learning independently, I started <a href="https://trinine.io" target="_blank">Trinine</a>, an open source project to learn, experiment, and improve medical imaging and diagnosis for patients and clinicians using deep neural networks and cloud computing.
+In 2016, while I was studying Machine Learning independently, I started <a href="https://trinine.io" target="_blank">Trinine</a> as a side-project to learn, experiment, and improve medical imaging and diagnosis for patients and clinicians using deep neural networks and cloud computing. My goal is to turn Trinine into an open source SaaS platform for medical imaging powered by machine learning. My long term goal is to develop technologies using Artificial Intelligence to solve some tough problems such as early intervention in chronic disease and to make patient care more precise.
 
 ## Development Stack
 

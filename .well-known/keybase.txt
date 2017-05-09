@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/cedric
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cedricchee.com
+  * I am cedric (https://keybase.io/cedric) on keybase.
+  * I have a public key ASDdukLhsM81xTVoQwh_1iXa9n6MFspqB5Wy4R6xGfjBxAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120ddba42e1b0cf35c5356843087fd625daf67e8c16ca6a0795b2e11eb119f8c1c40a",
+            "host": "keybase.io",
+            "kid": "0120ddba42e1b0cf35c5356843087fd625daf67e8c16ca6a0795b2e11eb119f8c1c40a",
+            "uid": "66d2b87d61147e02eec8fa1338d13100",
+            "username": "cedric"
+        },
+        "service": {
+            "hostname": "cedricchee.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.22"
+    },
+    "ctime": 1494347369,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1494347268,
+        "hash": "c91e79f8efddfacb4ad88a9c495c34e7ca4cb75a3d2d88b8e37930a3455274f7b1e42c24a4c1ebf4bd302aa4a18257113d2178a9406ce917e0c2d48dab0f3d34",
+        "seqno": 1060339
+    },
+    "prev": "d4df775a8230e7f5f1aaa59d8a7d9d338f3d423b4d764467392757e837d00c66",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3bpC4bDPNcU1aEMIf9Yl2vZ+jBbKageVsuEesRn4wcQKp3BheWxvYWTFAvZ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZGRiYTQyZTFiMGNmMzVjNTM1Njg0MzA4N2ZkNjI1ZGFmNjdlOGMxNmNhNmEwNzk1YjJlMTFlYjExOWY4YzFjNDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZGRiYTQyZTFiMGNmMzVjNTM1Njg0MzA4N2ZkNjI1ZGFmNjdlOGMxNmNhNmEwNzk1YjJlMTFlYjExOWY4YzFjNDBhIiwidWlkIjoiNjZkMmI4N2Q2MTE0N2UwMmVlYzhmYTEzMzhkMTMxMDAiLCJ1c2VybmFtZSI6ImNlZHJpYyJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiY2VkcmljY2hlZS5jb20iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMiJ9LCJjdGltZSI6MTQ5NDM0NzM2OSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDk0MzQ3MjY4LCJoYXNoIjoiYzkxZTc5ZjhlZmRkZmFjYjRhZDg4YTljNDk1YzM0ZTdjYTRjYjc1YTNkMmQ4OGI4ZTM3OTMwYTM0NTUyNzRmN2IxZTQyYzI0YTRjMWViZjRiZDMwMmFhNGExODI1NzExM2QyMTc4YTk0MDZjZTkxN2UwYzJkNDhkYWIwZjNkMzQiLCJzZXFubyI6MTA2MDMzOX0sInByZXYiOiJkNGRmNzc1YTgyMzBlN2Y1ZjFhYWE1OWQ4YTdkOWQzMzhmM2Q0MjNiNGQ3NjQ0NjczOTI3NTdlODM3ZDAwYzY2Iiwic2Vxbm8iOjEwLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQNGEtHRQEpLfaEAnv7t2K87AI6iJfh7xFg7/pozm2K9NaoBuOH2vlk8FlIKZP7ytS0q2SD96G8gLsflTq1PnFQKoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCB5vk75n5NjzqemMj9v67NsbsHoyYmPjz8ntsZbfIRKwaN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cedric
+
+==================================================================

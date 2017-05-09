@@ -1,9 +1,9 @@
 # main text of home
 name: Cedric Chee
-bio: Full stack software engineer at Vintedge and founder of Trinine.
+bio: Full stack software engineer at Vintedge and started Trinine, an open science project.
 
 # twitter summary info
-description: Cedric Chee is a full stack software engineer at Vintedge and founder of Trinine. He helps companies build web and mobile apps in JavaScript, React, Webpack, Node.js, Android & others.
+description: Cedric Chee is a full stack software engineer at Vintedge and started Trinine, an open science project. At Vintedge, he helps companies build web and mobile apps in JavaScript, React, Webpack, Node.js, Android & others.
 
 repository: cedrickchee/personal-website
 
@@ -56,7 +56,7 @@ email: cedric+site@invictusbyte.com
 authors:
     cedrickchee:
         name: Cedric Chee
-        bio: Full stack software engineer at Vintedge and founder of Trinine.
+        bio: Full stack software engineer at Vintedge and started Trinine, an open science project.
         external-image: false
         picture: assets/images/my-profile-pic.jpg
         twitter: cedric_chee

@@ -88,7 +88,7 @@ What are the core values that drive my life and work?
 * Lifelong learning
 * Contribution
 
-## Inactive Blogs
+## My Abandon Blogs
 
 * <a href="https://cedrickchee.wordpress.com/" target="_blank">WordPress - Musings on technology and everything else in between</a>
 * <a href="http://cedrickchee.blogspot.com/" target="_blank">Blogspot - Observing Web 2.0 and beyond</a>

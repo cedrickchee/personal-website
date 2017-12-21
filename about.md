@@ -39,7 +39,7 @@ I earned my undergraduate degree at University of Malaysia Sabah in Borneo - a s
 	* Led and developed myMaritime@SG. myMaritime@SG is an iOS and Android app which offers access to news releases, real-time vessel information and alerts and other Marinet e-services. The app was launched by Singapore Senior Minister of Transport in 2015. [News](http://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/detail/899656d4-3fb6-4622-8521-fc02eba329c1){:target="_blank"}
 	* Developed the official 2016 F1 Singapore Grand Prix Android app.
 	* Lead developer for Samsung's Project Robin. Robin is a retail demo solution consists of an Android and Tizen TV app to improve the TV shopping experience. The app was built using React Native. The app was showcased at Samsung SEA Forum 2017.
-2016 - present:
+* 2016 - present:
 	* Product development.
 	* Build, implement, and maintain machine learning systems.
 	* Algorithms implementation.

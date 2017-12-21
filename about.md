@@ -6,7 +6,7 @@ layout: page
 ## Bio
 ### A little more about me.
 
-Hi, I'm Cedric. I am a full stack software engineer at Vintedge, a digital agency. I work on the technology team in Singapore and focused on full stack web application and native Android application development for a wide array of business applications in a consulting environment. During my career there, I held the roles of software consultant, developer, and technical lead.
+Hi, I'm Cedric. I am the founder of Trinine, a cloud-based clinical analytics platform using Artificial Intelligence to predict cancer genomics from medical images. Prior to Trinine, I was a full stack software engineer at Vintedge, a digital agency. I work on the technology team in Singapore and focused on full stack web application and native Android application development for a wide array of business applications in a consulting environment. During my career there, I held the roles of software consultant, developer, and technical lead.
 
 I have over 10 years of web and 3 years of mobile application development experience. I believe I have a strong web development fundamentals. I have written both server-side and client-side code in many <a href="#programming-language">programming languages</a> for seven companies and many customers. I have the ability to come up with increasingly complex and innovative solutions to match business demands. I constantly challenge the status quo and trying to find better ways of doing things. I love building applications in the most elegant ways.
 
@@ -32,13 +32,18 @@ I earned my undergraduate degree at University of Malaysia Sabah in Borneo - a s
 	* Developed a scalable content management platform for TodayOnline and MediaCorp TV.
 * 2008 - 2010:
 	* Developed a travel search and booking engine for Asia market dynamics.
-* 2011 - present:
+* 2011 - 2017:
 	* Developed and supported a Nursing and Clinical Skills cloud platforms, which offer medical students and professionals access to evidence-based medical skills and procedures that are customised to cater for institution-specific protocols and local market dynamics in 8 countries, spanning Asia, Europe and Latin America.
 	* Developed a Medical e-Learning platform for medical specialists to achieve their CPD certifications at their own pace through peer-reviewed learning activities.
 	* Developed a Long-Term Care Nursing product, which offer regulatory-compliant clinical resources for long-term care specific nursing procedures for US market.
 	* Led and developed myMaritime@SG. myMaritime@SG is an iOS and Android app which offers access to news releases, real-time vessel information and alerts and other Marinet e-services. The app was launched by Singapore Senior Minister of Transport in 2015. [News](http://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/detail/899656d4-3fb6-4622-8521-fc02eba329c1){:target="_blank"}
 	* Developed the official 2016 F1 Singapore Grand Prix Android app.
 	* Lead developer for Samsung's Project Robin. Robin is a retail demo solution consists of an Android and Tizen TV app to improve the TV shopping experience. The app was built using React Native. The app was showcased at Samsung SEA Forum 2017.
+2016 - present:
+	* Product development.
+	* Build, implement, and maintain machine learning systems.
+	* Algorithms implementation.
+	* Train deep neural networks on large datasets.
 
 ## Interest
 

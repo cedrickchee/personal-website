@@ -50,13 +50,12 @@ quora: cedric-chee
 # lastfm: mylastfm
 # reddit: cedrickchee
 # vimeo: cedrickchee
-facebook: cedrickchee
 email: cedric+site@invictusbyte.com
 
 authors:
     cedrickchee:
         name: Cedric Chee
-        bio: Full stack software engineer at Vintedge and started Trinine, an open science project.
+        bio: Founder of Trinine. Software Engineer building web and mobile apps. Currently focused on Deep Learning.
         external-image: false
         picture: assets/images/my-profile-pic.jpg
         twitter: cedric_chee

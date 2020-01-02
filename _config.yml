@@ -1,9 +1,9 @@
 # main text of home
 name: Cedric Chee
-bio: Founder of Trinine. Machine Learning Engineer.
+bio: Software Engineer
 
 # twitter summary info
-description: Cedric is a founder of Trinine, currently focused on Deep Learning. Previously, he was a full stack software engineer at Vintedge. At Vintedge, he helps companies build web and mobile apps in JavaScript, React, Webpack, Node.js, Android & others.
+description: Cedric is a motivated software engineer with 16+ years of broad experience in full stack development, consulting, and building high quality applications for wide-range of customers. He was previously a software engineer at Vintedge. At Vintedge, he helps companies build web and mobile apps in JavaScript, React, Webpack, Node.js, Android & others. He is passionate about open source and empowering people.
 
 repository: cedrickchee/personal-website
 
@@ -55,7 +55,7 @@ email: cedric+site@invictusbyte.com
 authors:
     cedrickchee:
         name: Cedric Chee
-        bio: Founder of Trinine. Software Engineer building web and mobile apps. Currently focused on Deep Learning.
+        bio: Software Engineer building and shipping things on the web since 2001. Self-taught CS and Machine Learning. ex-founder of Trinine. He is passionate about open source and empowering people.
         external-image: false
         picture: assets/images/my-profile-pic.jpg
         twitter: cedric_chee

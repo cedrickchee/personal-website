@@ -6,7 +6,7 @@ layout: page
 ## Bio
 ### A little more about me.
 
-Hi, I'm Cedric. I am the founder of Trinine, a cloud-based clinical analytics platform using Artificial Intelligence to predict cancer genomics from medical images. Prior to Trinine, I was a full stack software engineer at Vintedge, a digital agency. I work on the technology team in Singapore and focused on full stack web application and native Android application development for a wide array of business applications in a consulting environment. During my career there, I held the roles of software consultant, developer, and technical lead.
+Hi, I'm Cedric. I am a software engineer, ex-founder of Trinine, and an Antler alumni. Prior to Trinine, I was a full stack software engineer at Vintedge, a digital agency. I work on the technology team in Singapore and focused on full stack web application and native Android application development for a wide array of business applications in a consulting environment. During my career there, I held the roles of software consultant, developer, and technical lead.
 
 I have over 10 years of web and 3 years of mobile application development experience. I believe I have a strong web development fundamentals. I have written both server-side and client-side code in many <a href="#programming-language">programming languages</a> for seven companies and many customers. I have the ability to come up with increasingly complex and innovative solutions to match business demands. I constantly challenge the status quo and trying to find better ways of doing things. I love building applications in the most elegant ways.
 

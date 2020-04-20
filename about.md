@@ -74,7 +74,7 @@ In conjunction with my studies, I also participate in <a href="https://www.kaggl
 
 ## Projects
 
-In 2016, while I was studying Machine Learning independently, I started <a href="https://trinine.io" target="_blank">Trinine</a> as a side-project to learn, experiment, and improve medical imaging and diagnosis for patients and clinicians using deep neural networks and cloud computing. My goal is to turn Trinine into an open source initiative to research, collaborate, and develop a cloud-based clinical platform to improve cancer treatment by bringing together medical imaging and genomics. My long term goal is to develop technologies using Artificial Intelligence to solve some tough problems such as early intervention in chronic disease and making diagnosis and treatment more accurate.
+In 2016, while I was studying Machine Learning independently, I started Trinine as a side-project to learn, experiment, and improve medical imaging and diagnosis for patients and clinicians using deep neural networks and cloud computing. My goal is to turn Trinine into an open source initiative to research, collaborate, and develop a cloud-based clinical platform to improve cancer treatment by bringing together medical imaging and genomics. My long term goal is to develop technologies using Artificial Intelligence to solve some tough problems such as early intervention in chronic disease and making diagnosis and treatment more accurate.
 
 ## Development Stack
 
@@ -118,4 +118,4 @@ Available on [Keybase] and [MIT PGP Key Server]
 914E 698E 44A6 21D8 A9D5 357A 3F4C 3C55 A9BC 8FD5
 
 [Keybase]: https://keybase.io/cedric
-[MIT PGP Key Server]: https://pgp.mit.edu/pks/lookup?op=vindex&search=0x3F4C3C55A9BC8FD5
+[MIT PGP Key Server]: https://keyserver.ubuntu.com/pks/lookup?search=0x3F4C3C55A9BC8FD5&fingerprint=on&op=index

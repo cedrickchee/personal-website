@@ -8,7 +8,7 @@ author: cedrickchee
 externalLink: false
 ---
 
-_This part 1 of a series of upcoming posts on my career and code retreat retrospective — what has been great, what has been horrible. Please pardon my English as I am not a native English speaker._
+_This is part 1 of a series of upcoming posts on my career and code retreat retrospective — what has been great, what has been horrible. Please pardon my English as I am not a native English speaker._
 
 ## What is Educational/Code Retreat
 

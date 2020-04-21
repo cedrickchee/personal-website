@@ -93,7 +93,7 @@ This is the truth?
 
 I know hiring is broken for SWE roles at big tech companies but I never expect this bad. OK, I will stop there. This is not a post to rant about hiring is broken.
 
-To add on, I have not touched data science for a while. Why? In my opinion, if you are not FAANG, it's costly to scale data science to production grade where your models can work robustly under known adversarial attacks. Data/AI ethics are challenging. Another smaller issue is research is not catching up fast enough with business demands of interpretable models. A lot more has been said on those issues. One example is this ["Data Science: Reality Doesn't Meet Expectations"](https://dfrieds.com/articles/data-science-reality-vs-expectations.html) post.
+To add on, I have not touched data science for a while. Why? In my opinion, if you are not FAANG, it's costly to scale data science to production grade where your models can work robustly under known adversarial attacks. Data/AI ethics are challenging. Another smaller issue is research is not catching up fast enough with business demands of interpretable models. A lot more has been said on those issues. Check out ["Rebooting AI"](https://www.amazon.com/Rebooting-AI-Building-Artificial-Intelligence-ebook/dp/B07MYLGQLB/) by Gary Marcus. Another example is this ["Data Science: Reality Doesn't Meet Expectations"](https://dfrieds.com/articles/data-science-reality-vs-expectations.html) post.
 
 I'm sorry to say that I don't have solutions now. I will consider to give data science another go in the future.
 

@@ -118,7 +118,7 @@ And I [want to be a wizard](https://jvns.ca/wizard-zine.pdf) :smile: Joke aside,
 
 I worked on a variety of projects. Some reached completion, and some didn't. I did things that I've always wanted to do, but also ended up doing things I never thought I would. Some of my favorites (marked as _*_) are:
 
-- _*_ Learned a new programming language, [Rust](https://www.rust-lang.org/)
+- _*_ Learned a new programming language, [Rust](https://www.rust-lang.org/). I created a very inaccurate ["knowledge map"](https://gist.github.com/cedrickchee/f729e848b52eab8fbc88a3910072198c) of stuffs I referenced learning Rust.
 - Learned to make my own version of the classic command line tool [grep](https://en.wikipedia.org/wiki/Grep) using Rust
 - Build a basic [multithreaded web server](https://github.com/cedrickchee/rust-webserver) from scratch (zero dependencies) using Rust and along the way, learn a bit about TCP and HTTP
 - _*_ Implements Conway's Game of Life in Rust and WebAssembly.

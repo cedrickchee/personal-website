@@ -24,7 +24,7 @@ I spent 14 months in educational retreat from 2019 to Feb 2020 — 7 months as a
 
 ## The Journey
 
-When I moved to Singapore in 2006, my main objective is to start my own tech startup business and chase my dream. I work hard and grab every little opportunities offered to me that allow me to learn and grow my skills and career while working for companies. I always hungry to learn. Learning never stops. I still remember vividly my first ever experience attending [Barcamp 4 conference in 2009](http://barcamp.org/w/page/401626/BarCampSingapore4).
+When I moved to Singapore in 2006, my main objective is to start my own tech startup business and chase my dream. I work hard and grab every little opportunities offered to me that allow me to learn and grow my skills and career while working for companies. I am always hungry to learn. Learning never stops. I still remember vividly my first ever experience attending [Barcamp 4 conference in 2009](http://barcamp.org/w/page/401626/BarCampSingapore4).
 
 ### Career as a Full Stack Software Engineer
 
@@ -36,9 +36,9 @@ In my full stack web roles, I spent most of my time on front-end development, wr
 
 #### Backend Development
 
-Most of my experience in backend works are done in statically typed and compiled languages like C, C# or TypeScript. I have a short love with Ruby before Node.js came out. I have only done some toy projects with Ruby on Rails and that was long time ago. I have deep experiece in Node.js together with a minimalistic MVC framework, Express.
+Most of my experience in backend works are done in statically typed and compiled languages like C, C# or TypeScript. I have a short love with Ruby before Node.js came out. I have only done some toy projects with Ruby on Rails and that was long time ago. I have deep experience in Node.js together with a minimalistic MVC framework, Express.
 
-I don't have much achievements in backend development that I'm proud of. I think my favorite contributions to backend systems were my work optimizing SQL database performance for several large legacy websites, created my first in-house web framework from scratch, RESTful API design and implementation for small to medium-sized apps, and sysadmin lead for greenfield infra projects on AWS.
+I don't have many achievements in backend development that I'm proud of. I think my favorite contributions to backend systems were my work optimizing SQL database performance for several large legacy websites, created my first in-house web framework from scratch, RESTful API design and implementation for small to medium-sized apps, and sysadmin lead for greenfield infra projects on AWS.
 
 As you can see, I lack the experience and skills in working in high traffic and large apps where [majestic monolith/macroservices (opposite of micro/services oriented architecture)](https://m.signalvnoise.com/the-majestic-monolith/) runs in a distributed systems environment and learning to build secure, reliable, and maintainable systems are important skills.
 
@@ -46,11 +46,11 @@ As you can see, I lack the experience and skills in working in high traffic and 
 
 If you ask me to describe "what is software engineering in three words?", my response is "more than programming".
 
-Throughout my time as a software engineer and consultant, I have lead technically several major projects and supported customers for both business and technical needs. My team are strutured to work directly and closely with the customers in every projects. Minimize the cost of error due to communication gap. We wear many hats. We go beyond our own roles sometimes.
+Throughout my time as a software engineer and consultant, I have lead technically several major projects and supported customers for both business and technical needs. My team are structured to work directly and closely with the customers in every project. This will minimize the cost of error due to communication gap. We wear many hats. We go beyond our own roles sometimes.
 
 ### Mid-Career Switch
 
-Around 2013, I noticed my career growth stagnant even though I still learn every day on the job, but not much. So, I started making a change to the situation. At this point, I have learn enough the basics of building startup and high-growth business after getting to know entrepreneur27 (e27 now) and TechCrunch.
+Around 2013, I noticed my career growth stagnant even though I still learn every day on the job, but not much. So, I started making a change to the situation. At this point, I have learned enough the basics of building startup and high-growth business after getting to know entrepreneur27 (e27 now) and TechCrunch.
 
 #### First Taste of Deep Learning
 
@@ -58,7 +58,7 @@ In 2015, I was confronted with a problem that is not feasible to solve using exi
 
 As a curious learner and knowing the chance to step-up my learning several times, I spent a week exploring and researching for solution and eventually ended up discovering neural networks. As a self-taught Computer Science, I have no idea what is neural networks. But that didn't stop me from learning.
 
-Then, I stumbled upon Stanford CS231n MOOC taught by Andre Karpathy and started learning deep learning, convnet, and Computer Vision. I was still struggling to wrap my mind around all the new neural nets theory and concepts and Maths around backprop/gradient descent calculations. So, I persisted and studied Coursera Machine Learning course taught by Prof. Andrew Ng and got [certified](https://www.coursera.org/account/accomplishments/verify/L3MUCREKSY9T).
+Then, I stumbled upon Stanford CS231n MOOC taught by Andre Karpathy and started learning deep learning, convnet, and Computer Vision. I was still struggling to wrap my mind around all the new neural nets theory and concepts and Maths around backpropagation/gradient descent calculations. So, I persisted and studied Coursera Machine Learning course taught by Prof. Andrew Ng and got [certified](https://www.coursera.org/account/accomplishments/verify/L3MUCREKSY9T).
 
 ### The Growth Stage
 
@@ -68,7 +68,7 @@ While working on my first startup in the medical domain, from 2018 onwards, I st
 
 #### Fast.ai International Fellowship
 
-I was accepted into Fast.ai International Fellowship 2018 programme. As a fellow, I worked on a variety of data science and deep learning projects such as:
+I was accepted into Fast.ai International Fellowship 2018 program. As a fellow, I worked on a variety of data science and deep learning projects such as:
 
 - [Awesome BERT NLP](https://github.com/cedrickchee/awesome-bert-nlp) repo - I have been tracking and researching Transformers networks and transfer learning in NLP for more than a year. Along the way, I share and update the repo with stuffs I find awesome.
 - I wrote a [Deep Learning for Coders book](https://cedrickchee.gitbook.io/knowledge) based on my learnings and notes that I took while studying Stanford CS231 CNN, Stanford CS224 NLP, Coursera Machine Learning, and fast.ai courses.
@@ -81,7 +81,7 @@ I was accepted into Fast.ai International Fellowship 2018 programme. As a fellow
 
 ### First Retreat
 
-My first educational retreat was in early 2019. I applied and got accepted out of 3000+ applicants in SEA to join [Antler](https://www.antler.co/) as an Entrepreneur-In-Residence (EIR). It's sort of apprentice programme and business retreat for entrepreneurs building startup. Our team failed to secure a pre-seed funding from Antler and my journey as an entrepreneur ended there. This itself is a blog post on its own, next time.
+My first educational retreat was in early 2019. I applied and got accepted out of 3000+ applicants in SEA to join [Antler](https://www.antler.co/) as an Entrepreneur-In-Residence (EIR). It's sort of apprentice program and business retreat for entrepreneurs building startup. Our team failed to secure a pre-seed funding from Antler and my journey as an entrepreneur ended there. This itself is a blog post on its own, next time.
 
 ### I wasn't getting hired as a Data Scientist
 
@@ -93,7 +93,7 @@ This is the truth?
 
 I know hiring is broken for SWE roles at big tech companies but I never expect this bad. OK, I will stop there. This is not a post to rant about hiring is broken.
 
-To add on, I have not touch data science for a while. Why? In my opinion, if you are not FAANG, it's costly to scale data science to production grade where your models can work robustly under known adversarial attacks. Data/AI ethics are challenging. Another smaller issue is research is not catching up fast enough with business demands of interpretable models. A lot more has been said on those issues. One example is this ["Data Science: Reality Doesn't Meet Expectations"](https://dfrieds.com/articles/data-science-reality-vs-expectations.html) post.
+To add on, I have not touched data science for a while. Why? In my opinion, if you are not FAANG, it's costly to scale data science to production grade where your models can work robustly under known adversarial attacks. Data/AI ethics are challenging. Another smaller issue is research is not catching up fast enough with business demands of interpretable models. A lot more has been said on those issues. One example is this ["Data Science: Reality Doesn't Meet Expectations"](https://dfrieds.com/articles/data-science-reality-vs-expectations.html) post.
 
 I'm sorry to say that I don't have solutions now. I will consider to give data science another go in the future.
 
@@ -103,7 +103,7 @@ I found out about RC in a period of my career when I wasn't growing much. I was 
 
 ## The Second Code Retreat
 
-I've moved on from pursuing Data Scientist role. So I started my journey into the second educational retreat phase. The startup company that runs the code retreat is flexible enough that allows us to design and customize plan for our retreat. My design mainly drawed inspirations from [Recurse Center User's Manual](https://www.recurse.com/manual) and my experience organizing and running virtual/in-person study groups for fast.ai and AI Saturdays students. I also referenced a few online articles:
+I've moved on from pursuing Data Scientist role. So I started my journey into the second educational retreat phase. The startup company that runs the code retreat is flexible enough that allows us to design and customize plan for our retreat. My design mainly drew inspirations from [Recurse Center User's Manual](https://www.recurse.com/manual) and my experience organizing and running virtual/in-person study groups for fast.ai and AI Saturdays students. I also referenced a few online articles:
 - [Example of how Recurser spent their time at RC](https://jvns.ca/blog/2017/09/17/how-i-spent-my-time-at-the-recurse-center/).
 - [Why I Decided to Learn to Code in Bali with Institute of Code](https://www.livelikeitstheweekend.com/decided-learn-code-bali-institute-code/)
 - [Coderetreat](https://www.coderetreat.org/) was spawned by Gary Bernhardt, Corey Haines, and many more.
@@ -112,14 +112,14 @@ The goal and focus of this code retreat is I want to get significantly better at
 
 > What I cannot create, I do not understand
 
-And I [want to be a wizard](https://jvns.ca/wizard-zine.pdf) :smile: Joke aside, during the COVID-19 crisis, where we're stuck at home and and work suspended, this is the best time to start doing things you always wanted to do.
+And I [want to be a wizard](https://jvns.ca/wizard-zine.pdf) :smile: Joke aside, during the COVID-19 crisis, where most of us are stuck at home and work suspended, this is the best time to start doing things you always wanted to do.
 
 ### What did you do at your code retreat?
 
 I worked on a variety of projects. Some reached completion, and some didn't. I did things that I've always wanted to do, but also ended up doing things I never thought I would. Some of my favorites (marked as _*_) are:
 
 - _*_ Learned a new programming language, [Rust](https://www.rust-lang.org/)
-- Learned making my own version of the classic command line tool grep using Rust
+- Learned to make my own version of the classic command line tool [grep](https://en.wikipedia.org/wiki/Grep) using Rust
 - Build a basic [multithreaded web server](https://github.com/cedrickchee/rust-webserver) from scratch (zero dependencies) using Rust and along the way, learn a bit about TCP and HTTP
 - _*_ Implements Conway's Game of Life in Rust and WebAssembly.
 - Learn Rust by creating too many linked lists
@@ -131,12 +131,12 @@ I worked on a variety of projects. Some reached completion, and some didn't. I d
 - _*_ [MinTorrent](https://github.com/cedrickchee/min-torrent) is yet another minimalistic, zero dependency torrent client, written in Go (golang).
 - _*_ Build yourself a programming language. I created [Hou](https://github.com/cedrickchee/hou) programming language interpreter and compiler from scratch using Go
 - [Snippetbox](https://github.com/cedrickchee/snippetbox) is a project I created to learn full-stack Go web application development
-- _*_ Learn distributed systems from first priciples by doing [MIT 6.824 distributed system](https://pdos.csail.mit.edu/6.824/index.html) labs and reading [Designing Data Intensive Applications](https://dataintensive.net/) book (learning-in-progress)
+- _*_ Learn distributed systems from first principles by doing [MIT 6.824 distributed system](https://pdos.csail.mit.edu/6.824/index.html) labs and reading [Designing Data Intensive Applications](https://dataintensive.net/) book (learning-in-progress)
 - ...and more (are you here and looking for [project ideas to practice a new programming language?](https://github.com/danistefanovic/build-your-own-x))
 
 A lot of them are focused on systems or Linux concepts and go deep into the concepts.
 
-I will continue in another post going into much more detail on each projects.
+I will continue in another post going into much more detail on each project.
 
 Lastly, I would to take this opportunity to apologize to anyone who have contacted me and I didn't response back. It is not in my truest intention as I was beating and recovering from burnout last year.
 
@@ -144,7 +144,7 @@ Lastly, I would to take this opportunity to apologize to anyone who have contact
 
 ## Hire Cedric Chee
 
-I'm back on the job market! I just lost my freelance job and I was living without a stable income for the past 9 months.
+I'm back on the job market! I just lost my freelance job, and I was living without a stable income for the past 9 months.
 
 Contact info and details [here](https://cedricchee.com/2020/04/21/hire-cedric-chee/).
 

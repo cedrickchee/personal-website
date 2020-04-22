@@ -119,22 +119,22 @@ And I [want to be a wizard](https://jvns.ca/wizard-zine.pdf) :smile: Joke aside,
 I worked on a variety of projects. Some reached completion, and some didn't. I did things that I've always wanted to do, but also ended up doing things I never thought I would. Some of my favorites (marked as _*_) are:
 
 - _*_ Learned a new programming language, [Rust](https://www.rust-lang.org/). I created a very inaccurate ["knowledge map"](https://gist.github.com/cedrickchee/f729e848b52eab8fbc88a3910072198c) of stuffs I referenced learning Rust.
-- Learned to make my own version of the classic command line tool [grep](https://en.wikipedia.org/wiki/Grep) using Rust
-- Build a basic [multithreaded web server](https://github.com/cedrickchee/rust-webserver) from scratch (zero dependencies) using Rust and along the way, learn a bit about TCP and HTTP
+- Learned to make my own version of the classic command line tool [grep](https://en.wikipedia.org/wiki/Grep) using Rust.
+- Build a basic [multithreaded web server](https://github.com/cedrickchee/rust-webserver) from scratch (zero dependencies) using Rust and along the way, learn a bit about TCP and HTTP.
 - _*_ Implements Conway's Game of Life in Rust and WebAssembly.
-- Learn Rust by creating too many linked lists
-- _*_ [Bitcask](https://github.com/cedrickchee/bitcask), a high-performance, networked, parallel and asynchronous key/value store (embedded database like SQLite) developed in Rust
-- [RNNoise](https://www.npmjs.com/package/rnnoise) is a Rust and Node.js bindings to Xiph's RNNoise denoising C library
-- _*_ Dive into [Xi Editor](https://xi-editor.io) which is a modern editor with a backend written in Rust
+- Learn Rust by creating too many linked lists.
+- _*_ [Bitcask](https://github.com/cedrickchee/bitcask), a high-performance, networked, parallel and asynchronous key/value store (embedded database like SQLite) developed in Rust.
+- [RNNoise](https://www.npmjs.com/package/rnnoise) is a Rust and Node.js bindings to Xiph's RNNoise denoising C library.
+- _*_ Deep dive into [Xi Editor](https://xi-editor.io) internals. Xi is a modern editor for the next 20 years. This exercise altered my appreciation for persistent rope data structure.
 - _*_ [You Don't Know Go, Yet book](https://ydkgo.netlify.app/) is a project for me to relearn Go from first principles by writing a book on it. I learned advanced Go stuffs in this study.
 - [Learn Test-Driven Development (TDD) in Go](https://github.com/cedrickchee/learn-go-with-tests) for the last time.
 - _*_ [MinTorrent](https://github.com/cedrickchee/min-torrent) is yet another minimalistic, zero dependency torrent client, written in Go (golang).
-- _*_ Build yourself a programming language. I created [Hou](https://github.com/cedrickchee/hou) programming language interpreter and compiler from scratch using Go
-- [Snippetbox](https://github.com/cedrickchee/snippetbox) is a project I created to learn full-stack Go web application development
-- _*_ Learn distributed systems from first principles by doing [MIT 6.824 distributed system](https://pdos.csail.mit.edu/6.824/index.html) labs and reading [Designing Data Intensive Applications](https://dataintensive.net/) book (learning-in-progress)
+- _*_ Build yourself a programming language. I created [Hou](https://github.com/cedrickchee/hou) programming language interpreter and compiler from scratch using Go.
+- [Snippetbox](https://github.com/cedrickchee/snippetbox) is a project I created to learn full-stack Go web application development.
+- _*_ Learn distributed systems from first principles by doing [MIT 6.824 distributed system](https://pdos.csail.mit.edu/6.824/index.html) labs and reading [Designing Data Intensive Applications](https://dataintensive.net/) book (learning-in-progress). I'm currently reading academic papers and reimplementing [Raft consensus algorithm](https://raft.github.io/).
 - ...and more (are you here and looking for [project ideas to practice a new programming language?](https://github.com/danistefanovic/build-your-own-x))
 
-A lot of them are focused on systems or Linux concepts and go deep into the concepts.
+A lot of them are focused on Computer Science, systems or Linux concepts and go deep into the concepts.
 
 I will continue in another post going into much more detail on each project.
 

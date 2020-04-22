@@ -43,4 +43,6 @@ Some topics I’ll want to discuss with you:
 
 I have been on sabbatical learning new skills and reading good books. I'm looking for the right position and eager to explore opportunities.
 
+CV: [PDF](https://www.visualcv.com/cedric-chee/) | [Portfolio](https://www.visualcv.com/cedricchee/)
+
 If you think we're a match, please [schedule some time on my calendar](https://calendly.com/cedricchee/set-up-a-call-with-cedric-to-discuss-his-experience) to talk!

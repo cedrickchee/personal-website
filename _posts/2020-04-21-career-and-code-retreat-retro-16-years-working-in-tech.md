@@ -58,7 +58,7 @@ In 2015, I was confronted with a problem that is not feasible to solve using exi
 
 As a curious learner and knowing the chance to step-up my learning several times, I spent a week exploring and researching for solution and eventually ended up discovering neural networks. As a self-taught Computer Science, I have no idea what is neural networks. But that didn't stop me from learning.
 
-Then, I stumbled upon Stanford CS231n MOOC taught by Andre Karpathy and started learning deep learning, convnet, and Computer Vision. I was still struggling to wrap my mind around all the new neural nets theory and concepts and Maths around backpropagation/gradient descent calculations. So, I persisted and studied Coursera Machine Learning course taught by Prof. Andrew Ng and got [certified](https://www.coursera.org/account/accomplishments/verify/L3MUCREKSY9T).
+Then, I stumbled upon Stanford CS231n MOOC taught by Andrej Karpathy and started learning deep learning, convnet, and Computer Vision. I was still struggling to wrap my mind around all the new neural nets theory and concepts and Maths around backpropagation/gradient descent calculations. So, I persisted and studied Coursera Machine Learning course taught by Prof. Andrew Ng and got [certified](https://www.coursera.org/account/accomplishments/verify/L3MUCREKSY9T).
 
 ### The Growth Stage
 

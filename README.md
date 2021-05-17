@@ -69,3 +69,11 @@ Check the [FAQ](./FAQ.md) if you have any question or problem.
 
 * Code: [MIT](https://cedrickchee.mit-license.org/) © Cedric Chee
 * Content: [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
+
+***
+
+## Random stuffs
+
+My GitHub story in 3D:
+
+https://user-images.githubusercontent.com/145605/118441697-243ee100-b71c-11eb-875a-d59fca1878f8.mp4

@@ -21,6 +21,18 @@
             <use xlink:href="#icon-twitter"></use>
         </svg>
     </a>
+    {% endif %} {% if site.mastodon %}
+    <a
+        rel="me"
+        class="link"
+        data-title="mstdn.io/@{{ site.mastodon }}"
+        href="https://mstdn.io/@{{ site.mastodon }}"
+        target="_blank"
+    >
+        <svg class="icon icon-mastodon">
+            <use xlink:href="#icon-mastodon"></use>
+        </svg>
+    </a>    
     {% endif %} {% if site.google %}
     <a
         class="link"

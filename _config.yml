@@ -37,10 +37,11 @@ disqus:
 
 # if you don't have any of social below, comment the line
 twitter: cedric_chee
+mastodon: cedric_chee
 linkedin: cedricchee
 github: cedrickchee
 medium: cedric_chee
-google: CedricChee
+# google: CedricChee
 stackoverflow: 206570/cedrickchee
 quora: cedric-chee
 # instagram: cedrickchee
